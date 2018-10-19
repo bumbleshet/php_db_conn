@@ -1,2 +1,8 @@
-# php_db_conn
-a school project on simple PHP CRUD with login
+# PHP DB(mysqli) Connection
+Guide repo.
+
+### Assignment:
+
+* add edit.php to edit individual user
+* add password field
+* add login mechanism
